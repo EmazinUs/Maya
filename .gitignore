@@ -1,0 +1,44 @@
+# ========================
+# Node Dependencies
+# ========================
+/client/node_modules/
+/server/node_modules/
+
+# ========================
+# Environment Variables
+# ========================
+# /frontend/.env
+# /frontend/.env.local
+# /backend/.env
+
+# ========================
+# Build Outputs
+# ========================
+/frontend/build/
+/frontend/dist/
+/frontend/.next/
+/frontend/.vite/
+/backend/build/
+/backend/dist/
+
+# ========================
+# Database (if used)
+# /backend/prisma/*.db
+# /backend/prisma/*.db-journal
+
+# ========================
+# Logs
+# ========================
+*.log
+npm-debug.log*
+
+# ========================
+# IDEs and OS files
+# ========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# TypeScript build info (if used)
+# *.tsbuildinfo

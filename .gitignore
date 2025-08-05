@@ -42,3 +42,6 @@ Thumbs.db
 
 # TypeScript build info (if used)
 # *.tsbuildinfo
+
+
+/server/.env

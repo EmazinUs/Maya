@@ -35,32 +35,6 @@
 - Modular and reusable component design
 
 ---
-
-## 📁 Project Structure
-
-```
-
-maya/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── server.js
-│
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── redux/
-│   └── App.js
-│
-├── .env
-├── package.json
-└── README.md
-
-````
-
 ---
 
 ## 🔧 Setup Instructions
